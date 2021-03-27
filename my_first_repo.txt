@@ -7,7 +7,15 @@ Thi is 7th line
 This is 8th line 
 This is 9th line 
 This is 10th line
+<<<<<<< HEAD
 this is achyut khadka 
 yikes!
 what?
 ok i added this line after commiting 
+||||||| merged common ancestors
+
+=======
+This is 11th line
+This is 12th line
+this line is for git pull test.
+>>>>>>> 97dabb8e0d785249f0dee917a00d23b29ab4ce2b
