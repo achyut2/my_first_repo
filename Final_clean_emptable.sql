@@ -1,0 +1,1 @@
+select * from FINAL_CLEAN_EMPTABLE
